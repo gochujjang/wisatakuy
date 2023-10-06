@@ -1,6 +1,6 @@
 # wisatakuy
 
-A new Flutter project.
+Tour explorer app using flutter for exercise.
 
 ## Getting Started
 
